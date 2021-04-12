@@ -1,3 +1,3 @@
 <?
     echo "Master";
-    echo "Bug Fixing"
+    echo "Bug Fixing";
